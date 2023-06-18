@@ -7,10 +7,7 @@ Skills: R / PYTHON
 - 📫 How to reach me: @yxw190021@utdallas.edu 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gisynw) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/giswu/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/YananWGIS) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mediafire.svg' alt='mediafire' height='40'>](https://ywu120766.medium.com/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gisynw)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/giswu/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/YananWGIS)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mediafire.svg' alt='mediafire' height='40'>](https://ywu120766.medium.com/)  
 
 
 

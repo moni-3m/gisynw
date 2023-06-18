@@ -5,7 +5,7 @@ I am a Ph.D. student in the Department of Geospatial Information Sciences at the
 Skills: R / PYTHON
 
 I'm always open and looking for any opportunity, feel free to reach me out via:
-Email: yxw190021@utdallas.edu(mailto:yxw190021@utdallas.edu) 
+Email: yxw190021@utdallas.edu/n 
 Linkedin: in/giswu(https://www.linkedin.com/in/giswu/)
 Twitter: YananWGIS(https://twitter.com/YananWGIS)
 

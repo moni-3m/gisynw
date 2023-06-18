@@ -4,7 +4,7 @@ I am a Ph.D. student in the Department of Geospatial Information Sciences at the
 
 #### Skills: R / PYTHON
 
-### Recent blog post on [Medium](medium.com/@ywu120766)
+### Recent blog post on [Medium](https://ywu120766.medium.com/)
 [Support Vector Machine in R: Hyperplane and Maximal Margin Classifier (Part 01)](https://ywu120766.medium.com/support-vector-machine-in-r-hyperplane-and-maximal-margin-classifier-part-01-21c3f93f751d)
 
 I'm always open and looking for any opportunity, feel free to reach me out via:<br />

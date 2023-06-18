@@ -4,7 +4,8 @@ I am a Ph.D. student in the Department of Geospatial Information Sciences at the
 
 #### Skills: R / PYTHON
 
-### Latest blog post on Medium
+### Latest blog post on [Medium](medium.com/@ywu120766)
+https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`@ywu120766`
 <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`@ywu120766`"/>
 
 I'm always open and looking for any opportunity, feel free to reach me out via:<br />

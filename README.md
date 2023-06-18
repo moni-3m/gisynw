@@ -4,10 +4,11 @@ I am a Ph.D. student in the Department of Geospatial Information Sciences at the
 
 Skills: R / PYTHON
 
-- 📫 How to reach me: @yxw190021@utdallas.edu 
+I'm always open and looking for any opportunity, feel free to reach me out via:
+Email: yxw190021@utdallas.edu(mailto:yxw190021@utdallas.edu) 
+Linkedin: in/giswu(https://www.linkedin.com/in/giswu/)
+Twitter: YananWGIS(https://twitter.com/YananWGIS)
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gisynw)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/giswu/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/YananWGIS)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mediafire.svg' alt='mediafire' height='40'>](https://ywu120766.medium.com/)  
 
 
 

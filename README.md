@@ -5,6 +5,7 @@ I am a Ph.D. student in the Department of Geospatial Information Sciences at the
 ## Skills: R / PYTHON
 
 ## Latest blog post on Medium
+[Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=@ywu120766)
 
 I'm always open and looking for any opportunity, feel free to reach me out via:<br />
 Email: [yxw190021@utdallas.edu](mailto:yxw190021@utdallas.edu)<br />

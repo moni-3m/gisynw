@@ -5,7 +5,7 @@ I am a Ph.D. student in the Department of Geospatial Information Sciences at the
 #### Skills: R / PYTHON
 
 ### Latest blog post on [Medium](medium.com/@ywu120766)
-<a target="_blank" href="https://gisynw-j4s15055l-gisynw.vercel.app/medium/@ywu120766/1"><img src="https://gisynw-j4s15055l-gisynw.vercel.app/medium/@ywu120766/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/1" alt="Recent Article 0">
 
 I'm always open and looking for any opportunity, feel free to reach me out via:<br />
 Email: [yxw190021@utdallas.edu](mailto:yxw190021@utdallas.edu)<br />

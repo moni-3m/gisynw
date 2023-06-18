@@ -4,8 +4,8 @@ I am a Ph.D. student in the Department of Geospatial Information Sciences at the
 
 #### Skills: R / PYTHON
 
-### Latest blog post on [Medium](medium.com/@ywu120766)
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/1" alt="Recent Article 0"> 
+### <img src="./node_modules/super-tiny-icons/images/svg/github.svg" /> Recent blog post on [Medium](medium.com/@ywu120766)
+[Support Vector Machine in R: Hyperplane and Maximal Margin Classifier (Part 01)](https://ywu120766.medium.com/support-vector-machine-in-r-hyperplane-and-maximal-margin-classifier-part-01-21c3f93f751d)
 
 I'm always open and looking for any opportunity, feel free to reach me out via:<br />
 Email: [yxw190021@utdallas.edu](mailto:yxw190021@utdallas.edu)<br />

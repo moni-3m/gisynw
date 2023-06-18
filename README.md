@@ -2,9 +2,9 @@
 #### I am Spatial Data Scientist. 
 I am a Ph.D. student in the Department of Geospatial Information Sciences at the University of Texas at Dallas. My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science. More information can be found on my personal website and blog post.
 
-## Skills: R / PYTHON
+#### Skills: R / PYTHON
 
-## Latest blog post on Medium
+### Latest blog post on Medium
 <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`@ywu120766`"/>
 
 I'm always open and looking for any opportunity, feel free to reach me out via:<br />

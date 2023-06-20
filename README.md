@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Yanan Wu
 #### I am a Spatial Data Scientist. 
-I am a Ph.D. student in the Department of Geospatial Information Sciences at the University of Texas at Dallas. My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science. More information can be found on my personal website and blog post.
+I am a Ph.D. student in the Department of Geospatial Information Sciences at the University of Texas at Dallas. My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science. More information can be found on my [personal website](https://gisynw.com/) and blog post on [Medium](https://ywu120766.medium.com/)
 
 #### Skills: R / PYTHON
 

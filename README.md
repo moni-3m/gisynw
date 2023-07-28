@@ -5,7 +5,7 @@
 
 + My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science. More information can be found on my [personal website](https://gisynw.com/) and blog post on [Medium](https://ywu120766.medium.com/)
 
-#### Skills: R / PYTHON
+![My Skills](https://skills.thijs.gg/icons?i=py,r,js)](https://skills.thijs.gg)
 
 ### Recent blog post on [Medium](https://ywu120766.medium.com/)
 [Support Vector Machine in R: Hyperplane and Maximal Margin Classifier (Part 01)](https://ywu120766.medium.com/support-vector-machine-in-r-hyperplane-and-maximal-margin-classifier-part-01-21c3f93f751d)<br />

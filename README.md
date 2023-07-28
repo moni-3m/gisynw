@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Yanan Wu
+### **Hi there 👋, my name is Yanan Wu**
 #### I aim to become a Spatial Data Scientist - an explorer who merges the worlds of data and geography. 
 
 Pursuing a PhD in the Department of Geospatial Information Sciences @ [The University of Texas at Dallas](https://epps.utdallas.edu/about/programs/geospatial-information-sciences/). 
@@ -15,7 +15,7 @@ I'm always open and looking for any opportunity, feel free to reach me out via:<
 Email: [yxw190021@utdallas.edu](mailto:yxw190021@utdallas.edu)<br />
 Linkedin: [in/giswu](https://www.linkedin.com/in/giswu/)<br />
 Twitter: [YananWGIS](https://twitter.com/YananWGIS)<br />
-[<img align="left" alt="medium" src="[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />]" />][@ywu120766](medium.com/@ywu120766)
+Medium: [@ywu120766](medium.com/@ywu120766)
 
 
 

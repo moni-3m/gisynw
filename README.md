@@ -23,7 +23,7 @@ I'm always open and looking for any opportunity, feel free to reach me out via:<
 Email: [yxw190021@utdallas.edu](mailto:yxw190021@utdallas.edu)<br />
 Linkedin: [in/giswu](https://www.linkedin.com/in/giswu/)<br />
 Twitter: [YananWGIS](https://twitter.com/YananWGIS)<br />
-Medium: [@ywu120766](medium.com/@ywu120766)
+Medium: [@ywu120766](ywu120766.medium.com)
 
 
 

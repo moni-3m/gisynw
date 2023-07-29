@@ -12,11 +12,11 @@
 
 ### Latest blog post on [Medium](https://ywu120766.medium.com/)
 
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/0" alt="Recent Article 0"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/1" alt="Recent Article 1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/1" alt="Recent Article 1"></a>
 
 
-I'm always open and looking for any opportunity, feel free to reach me out via:<br />
+### **I'm always open and looking for any opportunity, feel free to reach me out via:<br />**
 Email: [yxw190021@utdallas.edu](mailto:yxw190021@utdallas.edu)<br />
 Linkedin: [in/giswu](https://www.linkedin.com/in/giswu/)<br />
 Twitter: [YananWGIS](https://twitter.com/YananWGIS)<br />

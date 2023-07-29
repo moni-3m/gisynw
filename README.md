@@ -12,7 +12,7 @@
 
 ### Latest blog post on [Medium](https://ywu120766.medium.com/)
 
-![YananWu's blog](https://medium-update-ani7iw0ge-gisynw.vercel.app/latest?username=ywu120766&limit=1&theme=nord)
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/0" alt="Recent Article 0"></a>
 
 
 [Support Vector Machine in R: Hyperplane and Maximal Margin Classifier (Part 01)](https://ywu120766.medium.com/support-vector-machine-in-r-hyperplane-and-maximal-margin-classifier-part-01-21c3f93f751d)<br />

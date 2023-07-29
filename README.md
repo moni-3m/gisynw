@@ -13,7 +13,7 @@
 ### Latest blog post on [Medium](https://ywu120766.medium.com/)
 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/0" alt="Recent Article 0"> 
 
 
 [Support Vector Machine in R: Hyperplane and Maximal Margin Classifier (Part 01)](https://ywu120766.medium.com/support-vector-machine-in-r-hyperplane-and-maximal-margin-classifier-part-01-21c3f93f751d)<br />

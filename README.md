@@ -1,5 +1,5 @@
 ### **Hi there 👋, my name is Yanan Wu**
-#### **I am an explorer who merges the worlds of data and geography.** 
+#### **I aim to become a Spatial Data Scientist an explorer who merges the worlds of data and geography.** 
 
 + Pursuing a PhD in the Department of Geospatial Information Sciences @ [The University of Texas at Dallas](https://epps.utdallas.edu/about/programs/geospatial-information-sciences/). 
 

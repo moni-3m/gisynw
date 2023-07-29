@@ -8,7 +8,7 @@
 + More information can be found on my [personal website](https://gisynw.com/) and blog post on [Medium](https://ywu120766.medium.com/)
 
 ### **Skills**
-![My Skills](https://skills.thijs.gg/icons?i=py,r,js,github,git)]
+![My Skills](https://skills.thijs.gg/icons?i=py,r,js,github,git)
 
 ### Latest blog post on [Medium](https://ywu120766.medium.com/)
 

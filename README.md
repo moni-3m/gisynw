@@ -5,7 +5,7 @@
 
 + 💻 My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science.
 
-+ 💡 More information can be found on my [personal website](https://gisynw.com/) [Google Scholar](https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en) and blog post on [Medium](https://ywu120766.medium.com/)
++ 💡 More information can be found on my [personal website](https://gisynw.com/), [Google Scholar](https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en) and blog post on [Medium](https://ywu120766.medium.com/)
 
 ---
 

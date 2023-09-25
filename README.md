@@ -5,7 +5,7 @@
 
 + 💻 My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science.
 
-+ 💡 More information can be found on my [personal website](https://gisynw.com/),[CV] (https://github.com/gisynw/YananWu-CV/blob/b58b7fde3448de204f6c67e303cf2c78c8e8bdd6/YananWu%20CV.pdf), [Resume](https://github.com/gisynw/YananWu-CV/blob/b58b7fde3448de204f6c67e303cf2c78c8e8bdd6/YananWu%20Resume.pdf), [Google Scholar](https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en) and blog post on [Medium](https://ywu120766.medium.com/)
++ 💡 More information can be found on my [personal website](https://gisynw.com/),[CV](https://github.com/gisynw/YananWu-CV/blob/b58b7fde3448de204f6c67e303cf2c78c8e8bdd6/YananWu%20CV.pdf), [Resume](https://github.com/gisynw/YananWu-CV/blob/b58b7fde3448de204f6c67e303cf2c78c8e8bdd6/YananWu%20Resume.pdf), [Google Scholar](https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en) and blog post on [Medium](https://ywu120766.medium.com/)
 
 ---
 

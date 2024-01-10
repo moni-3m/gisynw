@@ -14,8 +14,9 @@
 
 ## Latest Blog Post on [Medium](https://ywu120766.medium.com/)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/0" alt="Recent Article 0"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ywu120766/1" alt="Recent Article 1"></a>
+[Simple and Straightforward Classification with Extreme Gradient Boosting — XGboost](https://ywu120766.medium.com/simple-and-straightforward-classification-with-extreme-gradient-boosting-xgboost-e88257dbe9a7)
+
+
 
 ---
 

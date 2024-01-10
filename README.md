@@ -16,8 +16,11 @@
 
 [Simple and Straightforward Classification with Extreme Gradient Boosting — XGboost](https://ywu120766.medium.com/simple-and-straightforward-classification-with-extreme-gradient-boosting-xgboost-e88257dbe9a7)
 
+[Gradient Boost — Classification](https://ywu120766.medium.com/gradient-boost-classification-bc1faf0a3dbe)
 
+[How to Divide Linestring(sf) into Equal Segments with R](https://ywu120766.medium.com/how-to-divide-linestring-sf-into-equal-segments-with-r-935a9ebaec7a)
 
+[Ipyleaflet & IpyWidgets: Interactive Map in Jupyter Notebook](https://ywu120766.medium.com/ipyleaflet-ipywidgets-interactive-map-in-jupyter-notebook-a6ba76586cb5)
 ---
 
 ## Get in touch

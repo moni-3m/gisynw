@@ -1,5 +1,5 @@
 ## **Hi there 👋, my name is Yanan Wu**
-#### **Thinking spatially - an explorer who merges the worlds of data and geography.** 
+#### **Spatial Minds, Data Discoveries - an explorer who merges the worlds of data and geography.** 
 
 + 🎓 Pursuing a PhD in the Department of Geospatial Information Sciences @ [The University of Texas at Dallas](https://epps.utdallas.edu/about/programs/geospatial-information-sciences/). 
 

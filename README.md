@@ -10,7 +10,7 @@
 ---
 
 ## **Skills**
-![My Skills](https://skills.thijs.gg/icons?i=py,r,js,github,git)
+![My Skills](https://skillicons.dev/icons?i=js,py,r,html,css)
 
 ## Latest Blog Post on [Medium](https://ywu120766.medium.com/)
 

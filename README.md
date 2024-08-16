@@ -1,7 +1,8 @@
 ## **Hi there 👋, my name is Yanan Wu**
 #### **Spatial Minds, Data Discoveries - an explorer who merges the worlds of data and geography.** 
++ <img height="32" width="32" src="Images/teachers.PNG" />
 
-+ 🎓 Pursuing a PhD in the Department of Geospatial Information Sciences @ [The University of Texas at Dallas](https://epps.utdallas.edu/about/programs/geospatial-information-sciences/). 
++ 🎓 Got a PhD in the Department of Geospatial Information Sciences @ [The University of Texas at Dallas](https://epps.utdallas.edu/about/programs/geospatial-information-sciences/). 
 
 + 💻 My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science.
 

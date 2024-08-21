@@ -1,6 +1,6 @@
 ## **Hi there 👋, my name is Yanan Wu**
 #### **Spatial Minds, Data Discoveries - an explorer who merges the worlds of data and geography.** 
-+ ![Visiting AP] (https://github.com/gisynw/gisynw.github.io/blob/d71d54dd745ccc9a0b09dfb670cfd1746acd6f65/Images/teachers.PNG)
++ ![Visiting AP](https://github.com/gisynw/gisynw.github.io/blob/d71d54dd745ccc9a0b09dfb670cfd1746acd6f65/Images/teachers.PNG)
 + 🎓 Got a PhD in the Department of Geospatial Information Sciences @ [The University of Texas at Dallas](https://epps.utdallas.edu/about/programs/geospatial-information-sciences/). 
 
 + 💻 My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science.

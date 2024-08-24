@@ -1,4 +1,8 @@
 ## **Hi there 👋, my name is Yanan Wu**
+
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/giswu)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)]([https://scholar.google.com/citations?user=vmml4_0AAAAJ&hl=en](https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en))
+
 #### **Spatial Minds, Data Discoveries - an explorer who merges the worlds of data and geography.** 
 + 👩‍🏫 I am a visiting assistant professor in the Graduate School of Geography at Clark University
   

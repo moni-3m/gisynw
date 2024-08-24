@@ -1,7 +1,8 @@
 ## **Hi there 👋, my name is Yanan Wu**
 #### **Spatial Minds, Data Discoveries - an explorer who merges the worlds of data and geography.** 
-+ I am a visiting assistant professor in the Graduate School of Geography at Clark University
-+ 🎓 Got a PhD in the Department of Geospatial Information Sciences @ [The University of Texas at Dallas](https://epps.utdallas.edu/about/programs/geospatial-information-sciences/). 
++ 👩‍🏫 I am a visiting assistant professor in the Graduate School of Geography at Clark University
+  
++ 🎓 PhD in the Department of Geospatial Information Sciences @ [The University of Texas at Dallas](https://epps.utdallas.edu/about/programs/geospatial-information-sciences/). 
 
 + 💻 My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science.
 

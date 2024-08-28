@@ -1,7 +1,4 @@
 ## **Hi there 👋, my name is Yanan Wu**
-👩‍🎓
-
-I have a repo 
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/giswu)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en)

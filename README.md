@@ -32,7 +32,7 @@
 ---
 
 ## Get in touch
-### **I'm always open and looking for any opportunity, feel free to reach me out via:<br />**
+### **I'm always happy to meet people, start new projects and open to any opportunity, feel free to reach me out via:<br />**
 - Email: [YanaWu@clarku.edu](mailto:YanaWu@clarku.edu)<br />
 - Linkedin: [in/giswu](https://www.linkedin.com/in/giswu/)<br />
 - Twitter: [YananWGIS](https://twitter.com/YananWGIS)<br />
